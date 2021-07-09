@@ -97,7 +97,7 @@
     "@storybook/addon-info": "^5.0.11",
     "@storybook/addon-knobs": "^5.0.11",
     "@storybook/addon-links": "^5.0.11",
-    "@storybook/addon-viewport": "^5.0.11",
+    "@storybook/addon-viewport": "^6.3.4",
     "@storybook/react": "^5.0.11",
     "@storybook/react-native": "^4.1.18",
     "@types/compression": "^0.0.36",
